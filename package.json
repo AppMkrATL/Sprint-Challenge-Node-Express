@@ -1,0 +1,28 @@
+{
+  "name": "sprint-challenge-node-express",
+  "version": "1.0.0",
+  "description": "Use Node.js and Express to design and build an API that performs CRUD operations on projects and actions.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AppMkrATL/Sprint-Challenge-Node-Express.git"
+  },
+  "author": "Sam Khaled",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AppMkrATL/Sprint-Challenge-Node-Express/issues"
+  },
+  "homepage": "https://github.com/AppMkrATL/Sprint-Challenge-Node-Express#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0",
+    "knex": "^0.15.2",
+    "morgan": "^1.9.0",
+    "npm": "^6.2.0",
+    "sqlite3": "^4.0.2"
+  }
+}
