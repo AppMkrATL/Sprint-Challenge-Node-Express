@@ -4,9 +4,6 @@ const helmet = require('helmet');
 const cors = require('cors');
 
 
-// const userDb = require('./data/helpers/userDb.js');
-// const postDb = require('./data/helpers/postDb.js');
-// const tagDb = require('./data/helpers/tagDb.js');
 
 const port = 8000;
 const server = express();
